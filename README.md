@@ -4,6 +4,6 @@ A collection of random LeetCode problem solutions to practice and improve coding
 
 🛠️ Tech Stack
 
-Language: Python, C
+Language: Python
 
 Platform: LeetCode
